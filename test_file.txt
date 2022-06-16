@@ -1,3 +1,7 @@
 Some text in the current file.
 
 Text for checking!!!
+
+Vlad - first function()
+
+Vlad - second func()
