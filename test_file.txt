@@ -8,6 +8,7 @@ Vlad - 3 func() + НОВАЯ ФИЧА
 
 Sazzeck - first function()
 
+<<<<<<< HEAD
 Sazzeck - 4 function for Vlad code(){
     Написанная функция для 4 задания
 }
