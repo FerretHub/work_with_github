@@ -8,6 +8,14 @@ Vlad - 3 func() + НОВАЯ ФИЧА
 
 Sazzeck - first function()
 
-Sazzeck - function for Vlad code()
-    Ок понял
+Sazzeck - 4 function for Vlad code(){
     Написанная функция для 4 задания
+}
+
+Vlad - 5 функция на тебе Антох(){
+
+}
+
+6 функция(){
+    dfgsdgdsgdsg
+}
