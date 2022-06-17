@@ -5,3 +5,5 @@ Text for checking!!!
 Vlad - first function()
 Vlad - second func()
 Vlad - 3 func() + НОВАЯ ФИЧА
+
+Sazzeck - first function()
