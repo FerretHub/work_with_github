@@ -7,3 +7,5 @@ Vlad - second func()
 Vlad - 3 func() + НОВАЯ ФИЧА
 
 Sazzeck - first function()
+
+Sazzeck - function for Vlad code()
