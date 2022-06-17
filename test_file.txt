@@ -15,3 +15,7 @@ Sazzeck - 4 function for Vlad code(){
 Vlad - 5 функция на тебе Антох(){
 
 }
+
+6 функция(){
+    dfgsdgdsgdsg
+}
